@@ -1,0 +1,27 @@
+{
+    "name": "🔱علي احمد 🔱",
+    "description": "مرحبا بكم في تنصيب النشر التلقائي الخاص بسورس علي احمز",
+    "logo": "",
+    "stack": "container",
+    "repository": "https://t.me/zlz1zl",
+    "keywords": ["python", "chatbot", "telegrambot"],
+    "website": "https://t.me/zlz1zl",
+    "env": {
+        "SESSION": {
+            "description": "ضع جلسة التريمكس",
+            "value": "",
+            "required": true
+        },
+        "APP_ID": {
+            "description": "ضع ال ايبي ايدي المكون من 8 ارقام",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ضع ال ايبي هاش الخاص بحسابك",
+            "value": "",
+            "required": true
+        }
+    },
+    "automatic_deploy": false
+}
