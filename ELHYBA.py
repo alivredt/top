@@ -3,7 +3,7 @@ import base64
 import asyncio
 import logging
 from telethon import events
-from mody import 
+from mody
 from asyncio import sleep
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')
